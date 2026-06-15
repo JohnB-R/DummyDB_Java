@@ -11,3 +11,17 @@ class DummyDb {
 
     }
 }
+
+/* The output should be
+
+Loading driver
+Connecting
+Writing
+Closing
+...
+Loading driver
+Connecting
+Reading
+Closing
+
+*/
